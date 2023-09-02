@@ -1,0 +1,1 @@
+g++ -std=c++11 -pthread -o sol_HocesCastroJoseAlberto_SCD_P1y2 sol_HocesCastroJoseAlberto_SCD_P1y2.cpp scd.cpp

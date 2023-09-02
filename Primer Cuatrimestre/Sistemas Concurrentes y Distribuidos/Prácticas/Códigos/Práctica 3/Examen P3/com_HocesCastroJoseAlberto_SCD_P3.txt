@@ -1,0 +1,2 @@
+mpicxx -std=c++11 -o sol_HocesCastroJoseAlberto_SCD_P3 sol_HocesCastroJoseAlberto_SCD_P3.cpp
+mpirun -oversubscribe -np 3 ./sol_HocesCastroJoseAlberto_SCD_P3
