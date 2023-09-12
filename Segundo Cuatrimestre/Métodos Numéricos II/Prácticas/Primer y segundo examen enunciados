@@ -1,0 +1,11 @@
+PRIMER EXAMEN
+
+Sea M la suma de los 8 dígitos de tu DNI y S = M/8. Toma la función x**3 + M*x + S, aproxima sus ceros con los métodos de bisección y secante y finalmente compara el error que cometen ambos métodos respecto a la solución exacta.
+
+SEGUNDO EXAMEN
+
+Sea M la suma de los 8 dígitos de tu DNI y S = M/8. Toma la función M*sinh(x**S) y halla la integral de esta en el intervalo definido por el mínimo de los dígitos de tu DNI y el máximo de los dígitos de tu DNI mediante la fórmula corregida del trapecio. Finalmente, calcula el error cometido con respecto al valor exacto de la integral.
+
+TERCER EXAMEN
+
+Este sí está en el git
